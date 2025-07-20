@@ -1,0 +1,1121 @@
+College Name|Branch|Category|Gender|Cutoff Rank
+JNTU College of Engineering, Hyderabad|CSE|OC|M|10011
+JNTU College of Engineering, Hyderabad|CSE|OC|F|4605
+JNTU College of Engineering, Hyderabad|CSE|BC-A|M|6966
+JNTU College of Engineering, Hyderabad|CSE|BC-A|F|10025
+JNTU College of Engineering, Hyderabad|CSE|BC-B|M|2686
+JNTU College of Engineering, Hyderabad|CSE|BC-B|F|11390
+JNTU College of Engineering, Hyderabad|CSE|BC-C|M|9301
+JNTU College of Engineering, Hyderabad|CSE|BC-C|F|7353
+JNTU College of Engineering, Hyderabad|CSE|BC-D|M|1797
+JNTU College of Engineering, Hyderabad|CSE|BC-D|F|8293
+JNTU College of Engineering, Hyderabad|CSE|SC|M|9943
+JNTU College of Engineering, Hyderabad|CSE|SC|F|2201
+JNTU College of Engineering, Hyderabad|CSE|ST|M|3269
+JNTU College of Engineering, Hyderabad|CSE|ST|F|5137
+JNTU College of Engineering, Hyderabad|CSE|EWS|M|9289
+JNTU College of Engineering, Hyderabad|CSE|EWS|F|10438
+JNTU College of Engineering, Hyderabad|ECE|OC|M|11189
+JNTU College of Engineering, Hyderabad|ECE|OC|F|8649
+JNTU College of Engineering, Hyderabad|ECE|BC-A|M|10685
+JNTU College of Engineering, Hyderabad|ECE|BC-A|F|3057
+JNTU College of Engineering, Hyderabad|ECE|BC-B|M|11371
+JNTU College of Engineering, Hyderabad|ECE|BC-B|F|4257
+JNTU College of Engineering, Hyderabad|ECE|BC-C|M|6205
+JNTU College of Engineering, Hyderabad|ECE|BC-C|F|11381
+JNTU College of Engineering, Hyderabad|ECE|BC-D|M|6105
+JNTU College of Engineering, Hyderabad|ECE|BC-D|F|5903
+JNTU College of Engineering, Hyderabad|ECE|SC|M|7107
+JNTU College of Engineering, Hyderabad|ECE|SC|F|12742
+JNTU College of Engineering, Hyderabad|ECE|ST|M|12015
+JNTU College of Engineering, Hyderabad|ECE|ST|F|12516
+JNTU College of Engineering, Hyderabad|ECE|EWS|M|10372
+JNTU College of Engineering, Hyderabad|ECE|EWS|F|11896
+JNTU College of Engineering, Hyderabad|EEE|OC|M|11944
+JNTU College of Engineering, Hyderabad|EEE|OC|F|7867
+JNTU College of Engineering, Hyderabad|EEE|BC-A|M|8468
+JNTU College of Engineering, Hyderabad|EEE|BC-A|F|10005
+JNTU College of Engineering, Hyderabad|EEE|BC-B|M|12446
+JNTU College of Engineering, Hyderabad|EEE|BC-B|F|10242
+JNTU College of Engineering, Hyderabad|EEE|BC-C|M|6001
+JNTU College of Engineering, Hyderabad|EEE|BC-C|F|13581
+JNTU College of Engineering, Hyderabad|EEE|BC-D|M|11740
+JNTU College of Engineering, Hyderabad|EEE|BC-D|F|12697
+JNTU College of Engineering, Hyderabad|EEE|SC|M|13578
+JNTU College of Engineering, Hyderabad|EEE|SC|F|6374
+JNTU College of Engineering, Hyderabad|EEE|ST|M|9872
+JNTU College of Engineering, Hyderabad|EEE|ST|F|6058
+JNTU College of Engineering, Hyderabad|EEE|EWS|M|8697
+JNTU College of Engineering, Hyderabad|EEE|EWS|F|6893
+JNTU College of Engineering, Hyderabad|IT|OC|M|12296
+JNTU College of Engineering, Hyderabad|IT|OC|F|11834
+JNTU College of Engineering, Hyderabad|IT|BC-A|M|7104
+JNTU College of Engineering, Hyderabad|IT|BC-A|F|12234
+JNTU College of Engineering, Hyderabad|IT|BC-B|M|4544
+JNTU College of Engineering, Hyderabad|IT|BC-B|F|10136
+JNTU College of Engineering, Hyderabad|IT|BC-C|M|3501
+JNTU College of Engineering, Hyderabad|IT|BC-C|F|9652
+JNTU College of Engineering, Hyderabad|IT|BC-D|M|3365
+JNTU College of Engineering, Hyderabad|IT|BC-D|F|3107
+JNTU College of Engineering, Hyderabad|IT|SC|M|5743
+JNTU College of Engineering, Hyderabad|IT|SC|F|11906
+JNTU College of Engineering, Hyderabad|IT|ST|M|2830
+JNTU College of Engineering, Hyderabad|IT|ST|F|3591
+JNTU College of Engineering, Hyderabad|IT|EWS|M|3607
+JNTU College of Engineering, Hyderabad|IT|EWS|F|3281
+JNTU College of Engineering, Hyderabad|MECH|OC|M|16164
+JNTU College of Engineering, Hyderabad|MECH|OC|F|14196
+JNTU College of Engineering, Hyderabad|MECH|BC-A|M|15647
+JNTU College of Engineering, Hyderabad|MECH|BC-A|F|9155
+JNTU College of Engineering, Hyderabad|MECH|BC-B|M|13932
+JNTU College of Engineering, Hyderabad|MECH|BC-B|F|14697
+JNTU College of Engineering, Hyderabad|MECH|BC-C|M|11251
+JNTU College of Engineering, Hyderabad|MECH|BC-C|F|11857
+JNTU College of Engineering, Hyderabad|MECH|BC-D|M|7383
+JNTU College of Engineering, Hyderabad|MECH|BC-D|F|7863
+JNTU College of Engineering, Hyderabad|MECH|SC|M|12381
+JNTU College of Engineering, Hyderabad|MECH|SC|F|11311
+JNTU College of Engineering, Hyderabad|MECH|ST|M|16394
+JNTU College of Engineering, Hyderabad|MECH|ST|F|14087
+JNTU College of Engineering, Hyderabad|MECH|EWS|M|13574
+JNTU College of Engineering, Hyderabad|MECH|EWS|F|13848
+JNTU College of Engineering, Hyderabad|CIVIL|OC|M|11907
+JNTU College of Engineering, Hyderabad|CIVIL|OC|F|11880
+JNTU College of Engineering, Hyderabad|CIVIL|BC-A|M|15767
+JNTU College of Engineering, Hyderabad|CIVIL|BC-A|F|9876
+JNTU College of Engineering, Hyderabad|CIVIL|BC-B|M|12583
+JNTU College of Engineering, Hyderabad|CIVIL|BC-B|F|9400
+JNTU College of Engineering, Hyderabad|CIVIL|BC-C|M|16256
+JNTU College of Engineering, Hyderabad|CIVIL|BC-C|F|12630
+JNTU College of Engineering, Hyderabad|CIVIL|BC-D|M|9873
+JNTU College of Engineering, Hyderabad|CIVIL|BC-D|F|9830
+JNTU College of Engineering, Hyderabad|CIVIL|SC|M|12223
+JNTU College of Engineering, Hyderabad|CIVIL|SC|F|14827
+JNTU College of Engineering, Hyderabad|CIVIL|ST|M|11357
+JNTU College of Engineering, Hyderabad|CIVIL|ST|F|15113
+JNTU College of Engineering, Hyderabad|CIVIL|EWS|M|9141
+JNTU College of Engineering, Hyderabad|CIVIL|EWS|F|17994
+JNTU College of Engineering, Hyderabad|DS|OC|M|7030
+JNTU College of Engineering, Hyderabad|DS|OC|F|9440
+JNTU College of Engineering, Hyderabad|DS|BC-A|M|4258
+JNTU College of Engineering, Hyderabad|DS|BC-A|F|7327
+JNTU College of Engineering, Hyderabad|DS|BC-B|M|5330
+JNTU College of Engineering, Hyderabad|DS|BC-B|F|4730
+JNTU College of Engineering, Hyderabad|DS|BC-C|M|5914
+JNTU College of Engineering, Hyderabad|DS|BC-C|F|12242
+JNTU College of Engineering, Hyderabad|DS|BC-D|M|6550
+JNTU College of Engineering, Hyderabad|DS|BC-D|F|7975
+JNTU College of Engineering, Hyderabad|DS|SC|M|10117
+JNTU College of Engineering, Hyderabad|DS|SC|F|7038
+JNTU College of Engineering, Hyderabad|DS|ST|M|10642
+JNTU College of Engineering, Hyderabad|DS|ST|F|4287
+JNTU College of Engineering, Hyderabad|DS|EWS|M|9242
+JNTU College of Engineering, Hyderabad|DS|EWS|F|9468
+OU College of Engineering, Hyderabad|CSE|OC|M|8108
+OU College of Engineering, Hyderabad|CSE|OC|F|3264
+OU College of Engineering, Hyderabad|CSE|BC-A|M|4182
+OU College of Engineering, Hyderabad|CSE|BC-A|F|11276
+OU College of Engineering, Hyderabad|CSE|BC-B|M|9350
+OU College of Engineering, Hyderabad|CSE|BC-B|F|11192
+OU College of Engineering, Hyderabad|CSE|BC-C|M|9018
+OU College of Engineering, Hyderabad|CSE|BC-C|F|10611
+OU College of Engineering, Hyderabad|CSE|BC-D|M|1961
+OU College of Engineering, Hyderabad|CSE|BC-D|F|11249
+OU College of Engineering, Hyderabad|CSE|SC|M|7367
+OU College of Engineering, Hyderabad|CSE|SC|F|9277
+OU College of Engineering, Hyderabad|CSE|ST|M|4721
+OU College of Engineering, Hyderabad|CSE|ST|F|10070
+OU College of Engineering, Hyderabad|CSE|EWS|M|7806
+OU College of Engineering, Hyderabad|CSE|EWS|F|7060
+OU College of Engineering, Hyderabad|ECE|OC|M|4559
+OU College of Engineering, Hyderabad|ECE|OC|F|3792
+OU College of Engineering, Hyderabad|ECE|BC-A|M|9687
+OU College of Engineering, Hyderabad|ECE|BC-A|F|9504
+OU College of Engineering, Hyderabad|ECE|BC-B|M|8823
+OU College of Engineering, Hyderabad|ECE|BC-B|F|7732
+OU College of Engineering, Hyderabad|ECE|BC-C|M|10664
+OU College of Engineering, Hyderabad|ECE|BC-C|F|3533
+OU College of Engineering, Hyderabad|ECE|BC-D|M|11987
+OU College of Engineering, Hyderabad|ECE|BC-D|F|3451
+OU College of Engineering, Hyderabad|ECE|SC|M|7641
+OU College of Engineering, Hyderabad|ECE|SC|F|6245
+OU College of Engineering, Hyderabad|ECE|ST|M|12735
+OU College of Engineering, Hyderabad|ECE|ST|F|6092
+OU College of Engineering, Hyderabad|ECE|EWS|M|7022
+OU College of Engineering, Hyderabad|ECE|EWS|F|6744
+OU College of Engineering, Hyderabad|EEE|OC|M|9178
+OU College of Engineering, Hyderabad|EEE|OC|F|8730
+OU College of Engineering, Hyderabad|EEE|BC-A|M|14279
+OU College of Engineering, Hyderabad|EEE|BC-A|F|14265
+OU College of Engineering, Hyderabad|EEE|BC-B|M|12918
+OU College of Engineering, Hyderabad|EEE|BC-B|F|6389
+OU College of Engineering, Hyderabad|EEE|BC-C|M|5072
+OU College of Engineering, Hyderabad|EEE|BC-C|F|8140
+OU College of Engineering, Hyderabad|EEE|BC-D|M|11885
+OU College of Engineering, Hyderabad|EEE|BC-D|F|5579
+OU College of Engineering, Hyderabad|EEE|SC|M|11259
+OU College of Engineering, Hyderabad|EEE|SC|F|12011
+OU College of Engineering, Hyderabad|EEE|ST|M|5591
+OU College of Engineering, Hyderabad|EEE|ST|F|5380
+OU College of Engineering, Hyderabad|EEE|EWS|M|9702
+OU College of Engineering, Hyderabad|EEE|EWS|F|10609
+OU College of Engineering, Hyderabad|IT|OC|M|7237
+OU College of Engineering, Hyderabad|IT|OC|F|8381
+OU College of Engineering, Hyderabad|IT|BC-A|M|3308
+OU College of Engineering, Hyderabad|IT|BC-A|F|8990
+OU College of Engineering, Hyderabad|IT|BC-B|M|3920
+OU College of Engineering, Hyderabad|IT|BC-B|F|6392
+OU College of Engineering, Hyderabad|IT|BC-C|M|7293
+OU College of Engineering, Hyderabad|IT|BC-C|F|4129
+OU College of Engineering, Hyderabad|IT|BC-D|M|8506
+OU College of Engineering, Hyderabad|IT|BC-D|F|6290
+OU College of Engineering, Hyderabad|IT|SC|M|11318
+OU College of Engineering, Hyderabad|IT|SC|F|10384
+OU College of Engineering, Hyderabad|IT|ST|M|10061
+OU College of Engineering, Hyderabad|IT|ST|F|7201
+OU College of Engineering, Hyderabad|IT|EWS|M|8449
+OU College of Engineering, Hyderabad|IT|EWS|F|2684
+OU College of Engineering, Hyderabad|MECH|OC|M|7062
+OU College of Engineering, Hyderabad|MECH|OC|F|9499
+OU College of Engineering, Hyderabad|MECH|BC-A|M|7855
+OU College of Engineering, Hyderabad|MECH|BC-A|F|15133
+OU College of Engineering, Hyderabad|MECH|BC-B|M|16010
+OU College of Engineering, Hyderabad|MECH|BC-B|F|13904
+OU College of Engineering, Hyderabad|MECH|BC-C|M|9413
+OU College of Engineering, Hyderabad|MECH|BC-C|F|10265
+OU College of Engineering, Hyderabad|MECH|BC-D|M|8867
+OU College of Engineering, Hyderabad|MECH|BC-D|F|11068
+OU College of Engineering, Hyderabad|MECH|SC|M|8695
+OU College of Engineering, Hyderabad|MECH|SC|F|8170
+OU College of Engineering, Hyderabad|MECH|ST|M|9613
+OU College of Engineering, Hyderabad|MECH|ST|F|7963
+OU College of Engineering, Hyderabad|MECH|EWS|M|15438
+OU College of Engineering, Hyderabad|MECH|EWS|F|13975
+OU College of Engineering, Hyderabad|CIVIL|OC|M|17280
+OU College of Engineering, Hyderabad|CIVIL|OC|F|17544
+OU College of Engineering, Hyderabad|CIVIL|BC-A|M|10207
+OU College of Engineering, Hyderabad|CIVIL|BC-A|F|12163
+OU College of Engineering, Hyderabad|CIVIL|BC-B|M|8006
+OU College of Engineering, Hyderabad|CIVIL|BC-B|F|14841
+OU College of Engineering, Hyderabad|CIVIL|BC-C|M|17239
+OU College of Engineering, Hyderabad|CIVIL|BC-C|F|12225
+OU College of Engineering, Hyderabad|CIVIL|BC-D|M|17027
+OU College of Engineering, Hyderabad|CIVIL|BC-D|F|16168
+OU College of Engineering, Hyderabad|CIVIL|SC|M|16062
+OU College of Engineering, Hyderabad|CIVIL|SC|F|12571
+OU College of Engineering, Hyderabad|CIVIL|ST|M|14996
+OU College of Engineering, Hyderabad|CIVIL|ST|F|15914
+OU College of Engineering, Hyderabad|CIVIL|EWS|M|12457
+OU College of Engineering, Hyderabad|CIVIL|EWS|F|11066
+OU College of Engineering, Hyderabad|DS|OC|M|5791
+OU College of Engineering, Hyderabad|DS|OC|F|5049
+OU College of Engineering, Hyderabad|DS|BC-A|M|12698
+OU College of Engineering, Hyderabad|DS|BC-A|F|8324
+OU College of Engineering, Hyderabad|DS|BC-B|M|13248
+OU College of Engineering, Hyderabad|DS|BC-B|F|10650
+OU College of Engineering, Hyderabad|DS|BC-C|M|12843
+OU College of Engineering, Hyderabad|DS|BC-C|F|10882
+OU College of Engineering, Hyderabad|DS|BC-D|M|6121
+OU College of Engineering, Hyderabad|DS|BC-D|F|4420
+OU College of Engineering, Hyderabad|DS|SC|M|11224
+OU College of Engineering, Hyderabad|DS|SC|F|10515
+OU College of Engineering, Hyderabad|DS|ST|M|8993
+OU College of Engineering, Hyderabad|DS|ST|F|13360
+OU College of Engineering, Hyderabad|DS|EWS|M|5705
+OU College of Engineering, Hyderabad|DS|EWS|F|7274
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|OC|M|3748
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|OC|F|5557
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|BC-A|M|1919
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|BC-A|F|6196
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|BC-B|M|1616
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|BC-B|F|6720
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|BC-C|M|10335
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|BC-C|F|11124
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|BC-D|M|6949
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|BC-D|F|3936
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|SC|M|3367
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|SC|F|6514
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|ST|M|10800
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|ST|F|10942
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|EWS|M|11145
+Chaitanya Bharathi Institute of Technology, Hyderabad|CSE|EWS|F|5558
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|OC|M|6576
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|OC|F|12556
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|BC-A|M|10845
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|BC-A|F|7381
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|BC-B|M|3089
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|BC-B|F|4711
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|BC-C|M|7482
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|BC-C|F|3702
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|BC-D|M|5602
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|BC-D|F|7743
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|SC|M|6373
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|SC|F|9535
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|ST|M|6661
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|ST|F|11106
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|EWS|M|11891
+Chaitanya Bharathi Institute of Technology, Hyderabad|ECE|EWS|F|7659
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|OC|M|11603
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|OC|F|10258
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|BC-A|M|5688
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|BC-A|F|6981
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|BC-B|M|13465
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|BC-B|F|6886
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|BC-C|M|9023
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|BC-C|F|7607
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|BC-D|M|10049
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|BC-D|F|13331
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|SC|M|7683
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|SC|F|9230
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|ST|M|11884
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|ST|F|11363
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|EWS|M|7841
+Chaitanya Bharathi Institute of Technology, Hyderabad|EEE|EWS|F|9829
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|OC|M|10693
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|OC|F|4649
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|BC-A|M|4272
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|BC-A|F|8171
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|BC-B|M|4090
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|BC-B|F|10010
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|BC-C|M|7299
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|BC-C|F|7054
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|BC-D|M|4410
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|BC-D|F|10089
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|SC|M|4585
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|SC|F|9756
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|ST|M|7886
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|ST|F|3248
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|EWS|M|9711
+Chaitanya Bharathi Institute of Technology, Hyderabad|IT|EWS|F|9347
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|OC|M|8036
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|OC|F|14648
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|BC-A|M|10043
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|BC-A|F|11564
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|BC-B|M|13260
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|BC-B|F|12984
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|BC-C|M|7089
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|BC-C|F|12955
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|BC-D|M|16938
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|BC-D|F|9793
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|SC|M|10710
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|SC|F|8047
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|ST|M|10198
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|ST|F|15939
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|EWS|M|15761
+Chaitanya Bharathi Institute of Technology, Hyderabad|MECH|EWS|F|11909
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|OC|M|12282
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|OC|F|8881
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|BC-A|M|8599
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|BC-A|F|11610
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|BC-B|M|14654
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|BC-B|F|13701
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|BC-C|M|10772
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|BC-C|F|8131
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|BC-D|M|16558
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|BC-D|F|17277
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|SC|M|9130
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|SC|F|12998
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|ST|M|8270
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|ST|F|17554
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|EWS|M|13292
+Chaitanya Bharathi Institute of Technology, Hyderabad|CIVIL|EWS|F|9085
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|OC|M|7653
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|OC|F|4540
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|BC-A|M|3530
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|BC-A|F|10749
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|BC-B|M|7248
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|BC-B|F|10499
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|BC-C|M|12551
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|BC-C|F|9361
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|BC-D|M|6760
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|BC-D|F|10047
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|SC|M|10777
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|SC|F|5964
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|ST|M|7469
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|ST|F|8534
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|EWS|M|3955
+Chaitanya Bharathi Institute of Technology, Hyderabad|DS|EWS|F|13239
+Vasavi College of Engineering, Hyderabad|CSE|OC|M|9873
+Vasavi College of Engineering, Hyderabad|CSE|OC|F|3024
+Vasavi College of Engineering, Hyderabad|CSE|BC-A|M|8844
+Vasavi College of Engineering, Hyderabad|CSE|BC-A|F|6575
+Vasavi College of Engineering, Hyderabad|CSE|BC-B|M|6049
+Vasavi College of Engineering, Hyderabad|CSE|BC-B|F|8085
+Vasavi College of Engineering, Hyderabad|CSE|BC-C|M|7013
+Vasavi College of Engineering, Hyderabad|CSE|BC-C|F|2247
+Vasavi College of Engineering, Hyderabad|CSE|BC-D|M|2634
+Vasavi College of Engineering, Hyderabad|CSE|BC-D|F|4123
+Vasavi College of Engineering, Hyderabad|CSE|SC|M|9155
+Vasavi College of Engineering, Hyderabad|CSE|SC|F|2313
+Vasavi College of Engineering, Hyderabad|CSE|ST|M|7356
+Vasavi College of Engineering, Hyderabad|CSE|ST|F|2837
+Vasavi College of Engineering, Hyderabad|CSE|EWS|M|5886
+Vasavi College of Engineering, Hyderabad|CSE|EWS|F|2411
+Vasavi College of Engineering, Hyderabad|ECE|OC|M|4599
+Vasavi College of Engineering, Hyderabad|ECE|OC|F|10181
+Vasavi College of Engineering, Hyderabad|ECE|BC-A|M|10781
+Vasavi College of Engineering, Hyderabad|ECE|BC-A|F|6981
+Vasavi College of Engineering, Hyderabad|ECE|BC-B|M|9627
+Vasavi College of Engineering, Hyderabad|ECE|BC-B|F|7079
+Vasavi College of Engineering, Hyderabad|ECE|BC-C|M|6240
+Vasavi College of Engineering, Hyderabad|ECE|BC-C|F|5157
+Vasavi College of Engineering, Hyderabad|ECE|BC-D|M|6919
+Vasavi College of Engineering, Hyderabad|ECE|BC-D|F|4773
+Vasavi College of Engineering, Hyderabad|ECE|SC|M|6038
+Vasavi College of Engineering, Hyderabad|ECE|SC|F|4724
+Vasavi College of Engineering, Hyderabad|ECE|ST|M|7588
+Vasavi College of Engineering, Hyderabad|ECE|ST|F|11929
+Vasavi College of Engineering, Hyderabad|ECE|EWS|M|6230
+Vasavi College of Engineering, Hyderabad|ECE|EWS|F|7246
+Vasavi College of Engineering, Hyderabad|EEE|OC|M|11661
+Vasavi College of Engineering, Hyderabad|EEE|OC|F|6355
+Vasavi College of Engineering, Hyderabad|EEE|BC-A|M|7338
+Vasavi College of Engineering, Hyderabad|EEE|BC-A|F|14202
+Vasavi College of Engineering, Hyderabad|EEE|BC-B|M|12220
+Vasavi College of Engineering, Hyderabad|EEE|BC-B|F|7766
+Vasavi College of Engineering, Hyderabad|EEE|BC-C|M|11105
+Vasavi College of Engineering, Hyderabad|EEE|BC-C|F|10801
+Vasavi College of Engineering, Hyderabad|EEE|BC-D|M|8019
+Vasavi College of Engineering, Hyderabad|EEE|BC-D|F|9548
+Vasavi College of Engineering, Hyderabad|EEE|SC|M|4945
+Vasavi College of Engineering, Hyderabad|EEE|SC|F|13691
+Vasavi College of Engineering, Hyderabad|EEE|ST|M|6372
+Vasavi College of Engineering, Hyderabad|EEE|ST|F|11099
+Vasavi College of Engineering, Hyderabad|EEE|EWS|M|6801
+Vasavi College of Engineering, Hyderabad|EEE|EWS|F|7560
+Vasavi College of Engineering, Hyderabad|IT|OC|M|10457
+Vasavi College of Engineering, Hyderabad|IT|OC|F|4277
+Vasavi College of Engineering, Hyderabad|IT|BC-A|M|10969
+Vasavi College of Engineering, Hyderabad|IT|BC-A|F|8044
+Vasavi College of Engineering, Hyderabad|IT|BC-B|M|2571
+Vasavi College of Engineering, Hyderabad|IT|BC-B|F|11587
+Vasavi College of Engineering, Hyderabad|IT|BC-C|M|9573
+Vasavi College of Engineering, Hyderabad|IT|BC-C|F|11814
+Vasavi College of Engineering, Hyderabad|IT|BC-D|M|4626
+Vasavi College of Engineering, Hyderabad|IT|BC-D|F|3940
+Vasavi College of Engineering, Hyderabad|IT|SC|M|6691
+Vasavi College of Engineering, Hyderabad|IT|SC|F|3886
+Vasavi College of Engineering, Hyderabad|IT|ST|M|9822
+Vasavi College of Engineering, Hyderabad|IT|ST|F|5702
+Vasavi College of Engineering, Hyderabad|IT|EWS|M|11816
+Vasavi College of Engineering, Hyderabad|IT|EWS|F|8766
+Vasavi College of Engineering, Hyderabad|MECH|OC|M|14438
+Vasavi College of Engineering, Hyderabad|MECH|OC|F|8518
+Vasavi College of Engineering, Hyderabad|MECH|BC-A|M|12738
+Vasavi College of Engineering, Hyderabad|MECH|BC-A|F|16064
+Vasavi College of Engineering, Hyderabad|MECH|BC-B|M|16523
+Vasavi College of Engineering, Hyderabad|MECH|BC-B|F|13933
+Vasavi College of Engineering, Hyderabad|MECH|BC-C|M|11510
+Vasavi College of Engineering, Hyderabad|MECH|BC-C|F|15390
+Vasavi College of Engineering, Hyderabad|MECH|BC-D|M|13011
+Vasavi College of Engineering, Hyderabad|MECH|BC-D|F|7484
+Vasavi College of Engineering, Hyderabad|MECH|SC|M|11236
+Vasavi College of Engineering, Hyderabad|MECH|SC|F|13275
+Vasavi College of Engineering, Hyderabad|MECH|ST|M|15286
+Vasavi College of Engineering, Hyderabad|MECH|ST|F|9152
+Vasavi College of Engineering, Hyderabad|MECH|EWS|M|12390
+Vasavi College of Engineering, Hyderabad|MECH|EWS|F|11268
+Vasavi College of Engineering, Hyderabad|CIVIL|OC|M|17087
+Vasavi College of Engineering, Hyderabad|CIVIL|OC|F|8809
+Vasavi College of Engineering, Hyderabad|CIVIL|BC-A|M|10129
+Vasavi College of Engineering, Hyderabad|CIVIL|BC-A|F|17609
+Vasavi College of Engineering, Hyderabad|CIVIL|BC-B|M|8936
+Vasavi College of Engineering, Hyderabad|CIVIL|BC-B|F|13639
+Vasavi College of Engineering, Hyderabad|CIVIL|BC-C|M|15543
+Vasavi College of Engineering, Hyderabad|CIVIL|BC-C|F|15936
+Vasavi College of Engineering, Hyderabad|CIVIL|BC-D|M|8288
+Vasavi College of Engineering, Hyderabad|CIVIL|BC-D|F|9327
+Vasavi College of Engineering, Hyderabad|CIVIL|SC|M|11850
+Vasavi College of Engineering, Hyderabad|CIVIL|SC|F|15506
+Vasavi College of Engineering, Hyderabad|CIVIL|ST|M|10312
+Vasavi College of Engineering, Hyderabad|CIVIL|ST|F|8331
+Vasavi College of Engineering, Hyderabad|CIVIL|EWS|M|12762
+Vasavi College of Engineering, Hyderabad|CIVIL|EWS|F|15068
+Vasavi College of Engineering, Hyderabad|DS|OC|M|4907
+Vasavi College of Engineering, Hyderabad|DS|OC|F|8311
+Vasavi College of Engineering, Hyderabad|DS|BC-A|M|11581
+Vasavi College of Engineering, Hyderabad|DS|BC-A|F|6944
+Vasavi College of Engineering, Hyderabad|DS|BC-B|M|7123
+Vasavi College of Engineering, Hyderabad|DS|BC-B|F|4905
+Vasavi College of Engineering, Hyderabad|DS|BC-C|M|8125
+Vasavi College of Engineering, Hyderabad|DS|BC-C|F|12852
+Vasavi College of Engineering, Hyderabad|DS|BC-D|M|4671
+Vasavi College of Engineering, Hyderabad|DS|BC-D|F|6383
+Vasavi College of Engineering, Hyderabad|DS|SC|M|9492
+Vasavi College of Engineering, Hyderabad|DS|SC|F|9620
+Vasavi College of Engineering, Hyderabad|DS|ST|M|11231
+Vasavi College of Engineering, Hyderabad|DS|ST|F|10995
+Vasavi College of Engineering, Hyderabad|DS|EWS|M|7497
+Vasavi College of Engineering, Hyderabad|DS|EWS|F|8737
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|OC|M|2445
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|OC|F|7230
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|BC-A|M|6496
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|BC-A|F|4529
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|BC-B|M|8577
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|BC-B|F|8568
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|BC-C|M|9528
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|BC-C|F|2138
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|BC-D|M|7238
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|BC-D|F|2890
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|SC|M|11341
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|SC|F|6671
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|ST|M|10742
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|ST|F|1629
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|EWS|M|7034
+Mahatma Gandhi Institute of Technology, Hyderabad|CSE|EWS|F|2063
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|OC|M|5161
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|OC|F|4379
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|BC-A|M|9596
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|BC-A|F|4338
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|BC-B|M|8781
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|BC-B|F|10559
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|BC-C|M|5735
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|BC-C|F|9809
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|BC-D|M|6882
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|BC-D|F|7440
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|SC|M|6506
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|SC|F|11275
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|ST|M|9696
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|ST|F|4631
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|EWS|M|8312
+Mahatma Gandhi Institute of Technology, Hyderabad|ECE|EWS|F|12708
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|OC|M|11052
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|OC|F|10227
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|BC-A|M|8334
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|BC-A|F|4960
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|BC-B|M|7525
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|BC-B|F|4685
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|BC-C|M|4752
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|BC-C|F|13622
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|BC-D|M|10944
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|BC-D|F|12574
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|SC|M|9378
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|SC|F|13303
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|ST|M|9544
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|ST|F|11755
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|EWS|M|9318
+Mahatma Gandhi Institute of Technology, Hyderabad|EEE|EWS|F|9159
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|OC|M|5497
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|OC|F|11083
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|BC-A|M|4160
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|BC-A|F|12187
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|BC-B|M|11663
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|BC-B|F|12132
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|BC-C|M|9729
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|BC-C|F|9199
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|BC-D|M|3145
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|BC-D|F|4464
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|SC|M|4747
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|SC|F|5547
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|ST|M|9709
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|ST|F|4207
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|EWS|M|4399
+Mahatma Gandhi Institute of Technology, Hyderabad|IT|EWS|F|9626
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|OC|M|8424
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|OC|F|9233
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|BC-A|M|14154
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|BC-A|F|13925
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|BC-B|M|14006
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|BC-B|F|12621
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|BC-C|M|11226
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|BC-C|F|16174
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|BC-D|M|10478
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|BC-D|F|16466
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|SC|M|10438
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|SC|F|9226
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|ST|M|9680
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|ST|F|8653
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|EWS|M|9615
+Mahatma Gandhi Institute of Technology, Hyderabad|MECH|EWS|F|9287
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|OC|M|8892
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|OC|F|12250
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|BC-A|M|9131
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|BC-A|F|16142
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|BC-B|M|15303
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|BC-B|F|13516
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|BC-C|M|15645
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|BC-C|F|9890
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|BC-D|M|14099
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|BC-D|F|10694
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|SC|M|15105
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|SC|F|17876
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|ST|M|14450
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|ST|F|9588
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|EWS|M|16985
+Mahatma Gandhi Institute of Technology, Hyderabad|CIVIL|EWS|F|15953
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|OC|M|7737
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|OC|F|7044
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|BC-A|M|13139
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|BC-A|F|7233
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|BC-B|M|4830
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|BC-B|F|7849
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|BC-C|M|11977
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|BC-C|F|5647
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|BC-D|M|10228
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|BC-D|F|12410
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|SC|M|10211
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|SC|F|7843
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|ST|M|11673
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|ST|F|12008
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|EWS|M|4724
+Mahatma Gandhi Institute of Technology, Hyderabad|DS|EWS|F|13124
+CVR College of Engineering, Hyderabad|CSE|OC|M|5399
+CVR College of Engineering, Hyderabad|CSE|OC|F|6790
+CVR College of Engineering, Hyderabad|CSE|BC-A|M|4350
+CVR College of Engineering, Hyderabad|CSE|BC-A|F|2185
+CVR College of Engineering, Hyderabad|CSE|BC-B|M|6284
+CVR College of Engineering, Hyderabad|CSE|BC-B|F|3339
+CVR College of Engineering, Hyderabad|CSE|BC-C|M|7749
+CVR College of Engineering, Hyderabad|CSE|BC-C|F|6376
+CVR College of Engineering, Hyderabad|CSE|BC-D|M|8760
+CVR College of Engineering, Hyderabad|CSE|BC-D|F|5457
+CVR College of Engineering, Hyderabad|CSE|SC|M|11228
+CVR College of Engineering, Hyderabad|CSE|SC|F|8424
+CVR College of Engineering, Hyderabad|CSE|ST|M|1777
+CVR College of Engineering, Hyderabad|CSE|ST|F|3853
+CVR College of Engineering, Hyderabad|CSE|EWS|M|9088
+CVR College of Engineering, Hyderabad|CSE|EWS|F|10121
+CVR College of Engineering, Hyderabad|ECE|OC|M|9541
+CVR College of Engineering, Hyderabad|ECE|OC|F|5480
+CVR College of Engineering, Hyderabad|ECE|BC-A|M|10280
+CVR College of Engineering, Hyderabad|ECE|BC-A|F|3454
+CVR College of Engineering, Hyderabad|ECE|BC-B|M|11185
+CVR College of Engineering, Hyderabad|ECE|BC-B|F|4984
+CVR College of Engineering, Hyderabad|ECE|BC-C|M|5274
+CVR College of Engineering, Hyderabad|ECE|BC-C|F|8739
+CVR College of Engineering, Hyderabad|ECE|BC-D|M|9898
+CVR College of Engineering, Hyderabad|ECE|BC-D|F|11073
+CVR College of Engineering, Hyderabad|ECE|SC|M|11609
+CVR College of Engineering, Hyderabad|ECE|SC|F|6655
+CVR College of Engineering, Hyderabad|ECE|ST|M|4727
+CVR College of Engineering, Hyderabad|ECE|ST|F|4715
+CVR College of Engineering, Hyderabad|ECE|EWS|M|12082
+CVR College of Engineering, Hyderabad|ECE|EWS|F|12452
+CVR College of Engineering, Hyderabad|EEE|OC|M|13892
+CVR College of Engineering, Hyderabad|EEE|OC|F|9283
+CVR College of Engineering, Hyderabad|EEE|BC-A|M|14421
+CVR College of Engineering, Hyderabad|EEE|BC-A|F|5081
+CVR College of Engineering, Hyderabad|EEE|BC-B|M|13967
+CVR College of Engineering, Hyderabad|EEE|BC-B|F|5243
+CVR College of Engineering, Hyderabad|EEE|BC-C|M|8681
+CVR College of Engineering, Hyderabad|EEE|BC-C|F|14076
+CVR College of Engineering, Hyderabad|EEE|BC-D|M|5104
+CVR College of Engineering, Hyderabad|EEE|BC-D|F|6448
+CVR College of Engineering, Hyderabad|EEE|SC|M|10496
+CVR College of Engineering, Hyderabad|EEE|SC|F|5652
+CVR College of Engineering, Hyderabad|EEE|ST|M|11110
+CVR College of Engineering, Hyderabad|EEE|ST|F|6770
+CVR College of Engineering, Hyderabad|EEE|EWS|M|7838
+CVR College of Engineering, Hyderabad|EEE|EWS|F|11370
+CVR College of Engineering, Hyderabad|IT|OC|M|9233
+CVR College of Engineering, Hyderabad|IT|OC|F|9490
+CVR College of Engineering, Hyderabad|IT|BC-A|M|6629
+CVR College of Engineering, Hyderabad|IT|BC-A|F|8540
+CVR College of Engineering, Hyderabad|IT|BC-B|M|3643
+CVR College of Engineering, Hyderabad|IT|BC-B|F|9978
+CVR College of Engineering, Hyderabad|IT|BC-C|M|12432
+CVR College of Engineering, Hyderabad|IT|BC-C|F|5186
+CVR College of Engineering, Hyderabad|IT|BC-D|M|9026
+CVR College of Engineering, Hyderabad|IT|BC-D|F|5083
+CVR College of Engineering, Hyderabad|IT|SC|M|10376
+CVR College of Engineering, Hyderabad|IT|SC|F|11920
+CVR College of Engineering, Hyderabad|IT|ST|M|7132
+CVR College of Engineering, Hyderabad|IT|ST|F|6793
+CVR College of Engineering, Hyderabad|IT|EWS|M|9722
+CVR College of Engineering, Hyderabad|IT|EWS|F|3151
+CVR College of Engineering, Hyderabad|MECH|OC|M|16675
+CVR College of Engineering, Hyderabad|MECH|OC|F|12749
+CVR College of Engineering, Hyderabad|MECH|BC-A|M|8148
+CVR College of Engineering, Hyderabad|MECH|BC-A|F|15976
+CVR College of Engineering, Hyderabad|MECH|BC-B|M|9058
+CVR College of Engineering, Hyderabad|MECH|BC-B|F|12327
+CVR College of Engineering, Hyderabad|MECH|BC-C|M|8375
+CVR College of Engineering, Hyderabad|MECH|BC-C|F|15903
+CVR College of Engineering, Hyderabad|MECH|BC-D|M|7485
+CVR College of Engineering, Hyderabad|MECH|BC-D|F|8518
+CVR College of Engineering, Hyderabad|MECH|SC|M|11516
+CVR College of Engineering, Hyderabad|MECH|SC|F|11449
+CVR College of Engineering, Hyderabad|MECH|ST|M|11235
+CVR College of Engineering, Hyderabad|MECH|ST|F|11132
+CVR College of Engineering, Hyderabad|MECH|EWS|M|11293
+CVR College of Engineering, Hyderabad|MECH|EWS|F|9771
+CVR College of Engineering, Hyderabad|CIVIL|OC|M|10542
+CVR College of Engineering, Hyderabad|CIVIL|OC|F|16027
+CVR College of Engineering, Hyderabad|CIVIL|BC-A|M|15089
+CVR College of Engineering, Hyderabad|CIVIL|BC-A|F|9033
+CVR College of Engineering, Hyderabad|CIVIL|BC-B|M|14198
+CVR College of Engineering, Hyderabad|CIVIL|BC-B|F|17274
+CVR College of Engineering, Hyderabad|CIVIL|BC-C|M|12052
+CVR College of Engineering, Hyderabad|CIVIL|BC-C|F|9002
+CVR College of Engineering, Hyderabad|CIVIL|BC-D|M|8736
+CVR College of Engineering, Hyderabad|CIVIL|BC-D|F|16095
+CVR College of Engineering, Hyderabad|CIVIL|SC|M|11553
+CVR College of Engineering, Hyderabad|CIVIL|SC|F|14553
+CVR College of Engineering, Hyderabad|CIVIL|ST|M|14876
+CVR College of Engineering, Hyderabad|CIVIL|ST|F|16431
+CVR College of Engineering, Hyderabad|CIVIL|EWS|M|12971
+CVR College of Engineering, Hyderabad|CIVIL|EWS|F|16601
+CVR College of Engineering, Hyderabad|DS|OC|M|12283
+CVR College of Engineering, Hyderabad|DS|OC|F|4540
+CVR College of Engineering, Hyderabad|DS|BC-A|M|9425
+CVR College of Engineering, Hyderabad|DS|BC-A|F|7639
+CVR College of Engineering, Hyderabad|DS|BC-B|M|13444
+CVR College of Engineering, Hyderabad|DS|BC-B|F|12216
+CVR College of Engineering, Hyderabad|DS|BC-C|M|9658
+CVR College of Engineering, Hyderabad|DS|BC-C|F|4303
+CVR College of Engineering, Hyderabad|DS|BC-D|M|9172
+CVR College of Engineering, Hyderabad|DS|BC-D|F|5229
+CVR College of Engineering, Hyderabad|DS|SC|M|7380
+CVR College of Engineering, Hyderabad|DS|SC|F|8979
+CVR College of Engineering, Hyderabad|DS|ST|M|9211
+CVR College of Engineering, Hyderabad|DS|ST|F|4251
+CVR College of Engineering, Hyderabad|DS|EWS|M|12377
+CVR College of Engineering, Hyderabad|DS|EWS|F|11186
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|OC|M|7884
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|OC|F|7738
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|BC-A|M|6632
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|BC-A|F|7154
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|BC-B|M|7285
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|BC-B|F|7490
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|BC-C|M|4805
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|BC-C|F|9533
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|BC-D|M|6535
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|BC-D|F|3832
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|SC|M|9667
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|SC|F|7909
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|ST|M|10284
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|ST|F|2314
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|EWS|M|9555
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CSE|EWS|F|7844
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|OC|M|4831
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|OC|F|5634
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|BC-A|M|6850
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|BC-A|F|7905
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|BC-B|M|7621
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|BC-B|F|8479
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|BC-C|M|7392
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|BC-C|F|10492
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|BC-D|M|6442
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|BC-D|F|11779
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|SC|M|10016
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|SC|F|10321
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|ST|M|3817
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|ST|F|12240
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|EWS|M|6832
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|ECE|EWS|F|5557
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|OC|M|13343
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|OC|F|10467
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|BC-A|M|13998
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|BC-A|F|14264
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|BC-B|M|12811
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|BC-B|F|10585
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|BC-C|M|11750
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|BC-C|F|11183
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|BC-D|M|4638
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|BC-D|F|7043
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|SC|M|6069
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|SC|F|6772
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|ST|M|5803
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|ST|F|13840
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|EWS|M|6768
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|EEE|EWS|F|11648
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|OC|M|8899
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|OC|F|11423
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|BC-A|M|8008
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|BC-A|F|2603
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|BC-B|M|9993
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|BC-B|F|8218
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|BC-C|M|8503
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|BC-C|F|10412
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|BC-D|M|3570
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|BC-D|F|8420
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|SC|M|10478
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|SC|F|8386
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|ST|M|4435
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|ST|F|6869
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|EWS|M|11577
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|IT|EWS|F|11184
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|OC|M|7591
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|OC|F|8662
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|BC-A|M|9395
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|BC-A|F|10363
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|BC-B|M|12732
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|BC-B|F|13257
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|BC-C|M|10164
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|BC-C|F|11766
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|BC-D|M|8819
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|BC-D|F|8644
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|SC|M|14351
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|SC|F|8073
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|ST|M|16757
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|ST|F|13556
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|EWS|M|8199
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|MECH|EWS|F|8639
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|OC|M|9802
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|OC|F|8007
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|BC-A|M|8570
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|BC-A|F|13331
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|BC-B|M|17167
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|BC-B|F|12087
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|BC-C|M|11879
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|BC-C|F|13077
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|BC-D|M|9416
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|BC-D|F|14016
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|SC|M|13383
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|SC|F|11750
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|ST|M|12142
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|ST|F|8412
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|EWS|M|16644
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|CIVIL|EWS|F|13909
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|OC|M|9840
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|OC|F|5666
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|BC-A|M|9771
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|BC-A|F|10985
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|BC-B|M|6884
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|BC-B|F|12379
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|BC-C|M|6298
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|BC-C|F|9501
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|BC-D|M|6394
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|BC-D|F|4137
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|SC|M|8418
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|SC|F|3912
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|ST|M|8651
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|ST|F|7923
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|EWS|M|7539
+Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad|DS|EWS|F|4893
+MLR Institute of Technology, Hyderabad|CSE|OC|M|8733
+MLR Institute of Technology, Hyderabad|CSE|OC|F|5491
+MLR Institute of Technology, Hyderabad|CSE|BC-A|M|3124
+MLR Institute of Technology, Hyderabad|CSE|BC-A|F|2121
+MLR Institute of Technology, Hyderabad|CSE|BC-B|M|1557
+MLR Institute of Technology, Hyderabad|CSE|BC-B|F|8690
+MLR Institute of Technology, Hyderabad|CSE|BC-C|M|9894
+MLR Institute of Technology, Hyderabad|CSE|BC-C|F|1679
+MLR Institute of Technology, Hyderabad|CSE|BC-D|M|2685
+MLR Institute of Technology, Hyderabad|CSE|BC-D|F|9729
+MLR Institute of Technology, Hyderabad|CSE|SC|M|5683
+MLR Institute of Technology, Hyderabad|CSE|SC|F|3508
+MLR Institute of Technology, Hyderabad|CSE|ST|M|10525
+MLR Institute of Technology, Hyderabad|CSE|ST|F|2519
+MLR Institute of Technology, Hyderabad|CSE|EWS|M|8215
+MLR Institute of Technology, Hyderabad|CSE|EWS|F|6959
+MLR Institute of Technology, Hyderabad|ECE|OC|M|12132
+MLR Institute of Technology, Hyderabad|ECE|OC|F|9028
+MLR Institute of Technology, Hyderabad|ECE|BC-A|M|12130
+MLR Institute of Technology, Hyderabad|ECE|BC-A|F|11245
+MLR Institute of Technology, Hyderabad|ECE|BC-B|M|9423
+MLR Institute of Technology, Hyderabad|ECE|BC-B|F|8105
+MLR Institute of Technology, Hyderabad|ECE|BC-C|M|7736
+MLR Institute of Technology, Hyderabad|ECE|BC-C|F|7719
+MLR Institute of Technology, Hyderabad|ECE|BC-D|M|8609
+MLR Institute of Technology, Hyderabad|ECE|BC-D|F|3755
+MLR Institute of Technology, Hyderabad|ECE|SC|M|3358
+MLR Institute of Technology, Hyderabad|ECE|SC|F|11527
+MLR Institute of Technology, Hyderabad|ECE|ST|M|6318
+MLR Institute of Technology, Hyderabad|ECE|ST|F|10400
+MLR Institute of Technology, Hyderabad|ECE|EWS|M|10003
+MLR Institute of Technology, Hyderabad|ECE|EWS|F|3414
+MLR Institute of Technology, Hyderabad|EEE|OC|M|14222
+MLR Institute of Technology, Hyderabad|EEE|OC|F|12360
+MLR Institute of Technology, Hyderabad|EEE|BC-A|M|12162
+MLR Institute of Technology, Hyderabad|EEE|BC-A|F|10083
+MLR Institute of Technology, Hyderabad|EEE|BC-B|M|7080
+MLR Institute of Technology, Hyderabad|EEE|BC-B|F|10997
+MLR Institute of Technology, Hyderabad|EEE|BC-C|M|8316
+MLR Institute of Technology, Hyderabad|EEE|BC-C|F|8499
+MLR Institute of Technology, Hyderabad|EEE|BC-D|M|5586
+MLR Institute of Technology, Hyderabad|EEE|BC-D|F|11861
+MLR Institute of Technology, Hyderabad|EEE|SC|M|5458
+MLR Institute of Technology, Hyderabad|EEE|SC|F|5234
+MLR Institute of Technology, Hyderabad|EEE|ST|M|7304
+MLR Institute of Technology, Hyderabad|EEE|ST|F|12452
+MLR Institute of Technology, Hyderabad|EEE|EWS|M|9251
+MLR Institute of Technology, Hyderabad|EEE|EWS|F|7923
+MLR Institute of Technology, Hyderabad|IT|OC|M|10824
+MLR Institute of Technology, Hyderabad|IT|OC|F|11934
+MLR Institute of Technology, Hyderabad|IT|BC-A|M|9647
+MLR Institute of Technology, Hyderabad|IT|BC-A|F|5330
+MLR Institute of Technology, Hyderabad|IT|BC-B|M|10207
+MLR Institute of Technology, Hyderabad|IT|BC-B|F|2561
+MLR Institute of Technology, Hyderabad|IT|BC-C|M|10537
+MLR Institute of Technology, Hyderabad|IT|BC-C|F|7363
+MLR Institute of Technology, Hyderabad|IT|BC-D|M|5976
+MLR Institute of Technology, Hyderabad|IT|BC-D|F|2933
+MLR Institute of Technology, Hyderabad|IT|SC|M|7189
+MLR Institute of Technology, Hyderabad|IT|SC|F|10649
+MLR Institute of Technology, Hyderabad|IT|ST|M|6416
+MLR Institute of Technology, Hyderabad|IT|ST|F|7234
+MLR Institute of Technology, Hyderabad|IT|EWS|M|2799
+MLR Institute of Technology, Hyderabad|IT|EWS|F|5495
+MLR Institute of Technology, Hyderabad|MECH|OC|M|11290
+MLR Institute of Technology, Hyderabad|MECH|OC|F|16366
+MLR Institute of Technology, Hyderabad|MECH|BC-A|M|11634
+MLR Institute of Technology, Hyderabad|MECH|BC-A|F|9958
+MLR Institute of Technology, Hyderabad|MECH|BC-B|M|11032
+MLR Institute of Technology, Hyderabad|MECH|BC-B|F|7834
+MLR Institute of Technology, Hyderabad|MECH|BC-C|M|10605
+MLR Institute of Technology, Hyderabad|MECH|BC-C|F|12188
+MLR Institute of Technology, Hyderabad|MECH|BC-D|M|7257
+MLR Institute of Technology, Hyderabad|MECH|BC-D|F|12466
+MLR Institute of Technology, Hyderabad|MECH|SC|M|16348
+MLR Institute of Technology, Hyderabad|MECH|SC|F|15773
+MLR Institute of Technology, Hyderabad|MECH|ST|M|13380
+MLR Institute of Technology, Hyderabad|MECH|ST|F|10898
+MLR Institute of Technology, Hyderabad|MECH|EWS|M|11819
+MLR Institute of Technology, Hyderabad|MECH|EWS|F|16612
+MLR Institute of Technology, Hyderabad|CIVIL|OC|M|14300
+MLR Institute of Technology, Hyderabad|CIVIL|OC|F|12493
+MLR Institute of Technology, Hyderabad|CIVIL|BC-A|M|13670
+MLR Institute of Technology, Hyderabad|CIVIL|BC-A|F|10701
+MLR Institute of Technology, Hyderabad|CIVIL|BC-B|M|12331
+MLR Institute of Technology, Hyderabad|CIVIL|BC-B|F|10897
+MLR Institute of Technology, Hyderabad|CIVIL|BC-C|M|8836
+MLR Institute of Technology, Hyderabad|CIVIL|BC-C|F|17326
+MLR Institute of Technology, Hyderabad|CIVIL|BC-D|M|9089
+MLR Institute of Technology, Hyderabad|CIVIL|BC-D|F|13395
+MLR Institute of Technology, Hyderabad|CIVIL|SC|M|15908
+MLR Institute of Technology, Hyderabad|CIVIL|SC|F|12207
+MLR Institute of Technology, Hyderabad|CIVIL|ST|M|9336
+MLR Institute of Technology, Hyderabad|CIVIL|ST|F|11228
+MLR Institute of Technology, Hyderabad|CIVIL|EWS|M|8279
+MLR Institute of Technology, Hyderabad|CIVIL|EWS|F|14987
+MLR Institute of Technology, Hyderabad|DS|OC|M|12517
+MLR Institute of Technology, Hyderabad|DS|OC|F|10112
+MLR Institute of Technology, Hyderabad|DS|BC-A|M|10849
+MLR Institute of Technology, Hyderabad|DS|BC-A|F|7584
+MLR Institute of Technology, Hyderabad|DS|BC-B|M|10808
+MLR Institute of Technology, Hyderabad|DS|BC-B|F|5507
+MLR Institute of Technology, Hyderabad|DS|BC-C|M|7610
+MLR Institute of Technology, Hyderabad|DS|BC-C|F|8990
+MLR Institute of Technology, Hyderabad|DS|BC-D|M|8204
+MLR Institute of Technology, Hyderabad|DS|BC-D|F|7015
+MLR Institute of Technology, Hyderabad|DS|SC|M|7361
+MLR Institute of Technology, Hyderabad|DS|SC|F|6981
+MLR Institute of Technology, Hyderabad|DS|ST|M|11982
+MLR Institute of Technology, Hyderabad|DS|ST|F|3805
+MLR Institute of Technology, Hyderabad|DS|EWS|M|11139
+MLR Institute of Technology, Hyderabad|DS|EWS|F|9093
+Vardhaman College of Engineering, Hyderabad|CSE|OC|M|11177
+Vardhaman College of Engineering, Hyderabad|CSE|OC|F|5180
+Vardhaman College of Engineering, Hyderabad|CSE|BC-A|M|8873
+Vardhaman College of Engineering, Hyderabad|CSE|BC-A|F|8757
+Vardhaman College of Engineering, Hyderabad|CSE|BC-B|M|8627
+Vardhaman College of Engineering, Hyderabad|CSE|BC-B|F|6507
+Vardhaman College of Engineering, Hyderabad|CSE|BC-C|M|9387
+Vardhaman College of Engineering, Hyderabad|CSE|BC-C|F|4971
+Vardhaman College of Engineering, Hyderabad|CSE|BC-D|M|4401
+Vardhaman College of Engineering, Hyderabad|CSE|BC-D|F|9412
+Vardhaman College of Engineering, Hyderabad|CSE|SC|M|9536
+Vardhaman College of Engineering, Hyderabad|CSE|SC|F|1970
+Vardhaman College of Engineering, Hyderabad|CSE|ST|M|2788
+Vardhaman College of Engineering, Hyderabad|CSE|ST|F|4045
+Vardhaman College of Engineering, Hyderabad|CSE|EWS|M|4395
+Vardhaman College of Engineering, Hyderabad|CSE|EWS|F|2150
+Vardhaman College of Engineering, Hyderabad|ECE|OC|M|9737
+Vardhaman College of Engineering, Hyderabad|ECE|OC|F|10636
+Vardhaman College of Engineering, Hyderabad|ECE|BC-A|M|10265
+Vardhaman College of Engineering, Hyderabad|ECE|BC-A|F|6101
+Vardhaman College of Engineering, Hyderabad|ECE|BC-B|M|11428
+Vardhaman College of Engineering, Hyderabad|ECE|BC-B|F|8178
+Vardhaman College of Engineering, Hyderabad|ECE|BC-C|M|6830
+Vardhaman College of Engineering, Hyderabad|ECE|BC-C|F|6141
+Vardhaman College of Engineering, Hyderabad|ECE|BC-D|M|3159
+Vardhaman College of Engineering, Hyderabad|ECE|BC-D|F|10108
+Vardhaman College of Engineering, Hyderabad|ECE|SC|M|12165
+Vardhaman College of Engineering, Hyderabad|ECE|SC|F|10847
+Vardhaman College of Engineering, Hyderabad|ECE|ST|M|4927
+Vardhaman College of Engineering, Hyderabad|ECE|ST|F|11611
+Vardhaman College of Engineering, Hyderabad|ECE|EWS|M|7434
+Vardhaman College of Engineering, Hyderabad|ECE|EWS|F|6576
+Vardhaman College of Engineering, Hyderabad|EEE|OC|M|8401
+Vardhaman College of Engineering, Hyderabad|EEE|OC|F|6896
+Vardhaman College of Engineering, Hyderabad|EEE|BC-A|M|8959
+Vardhaman College of Engineering, Hyderabad|EEE|BC-A|F|4570
+Vardhaman College of Engineering, Hyderabad|EEE|BC-B|M|13339
+Vardhaman College of Engineering, Hyderabad|EEE|BC-B|F|8906
+Vardhaman College of Engineering, Hyderabad|EEE|BC-C|M|9527
+Vardhaman College of Engineering, Hyderabad|EEE|BC-C|F|11248
+Vardhaman College of Engineering, Hyderabad|EEE|BC-D|M|10775
+Vardhaman College of Engineering, Hyderabad|EEE|BC-D|F|14221
+Vardhaman College of Engineering, Hyderabad|EEE|SC|M|8334
+Vardhaman College of Engineering, Hyderabad|EEE|SC|F|6633
+Vardhaman College of Engineering, Hyderabad|EEE|ST|M|12262
+Vardhaman College of Engineering, Hyderabad|EEE|ST|F|13616
+Vardhaman College of Engineering, Hyderabad|EEE|EWS|M|7840
+Vardhaman College of Engineering, Hyderabad|EEE|EWS|F|7382
+Vardhaman College of Engineering, Hyderabad|IT|OC|M|4843
+Vardhaman College of Engineering, Hyderabad|IT|OC|F|9307
+Vardhaman College of Engineering, Hyderabad|IT|BC-A|M|8104
+Vardhaman College of Engineering, Hyderabad|IT|BC-A|F|5924
+Vardhaman College of Engineering, Hyderabad|IT|BC-B|M|7374
+Vardhaman College of Engineering, Hyderabad|IT|BC-B|F|7049
+Vardhaman College of Engineering, Hyderabad|IT|BC-C|M|8757
+Vardhaman College of Engineering, Hyderabad|IT|BC-C|F|6520
+Vardhaman College of Engineering, Hyderabad|IT|BC-D|M|3534
+Vardhaman College of Engineering, Hyderabad|IT|BC-D|F|5009
+Vardhaman College of Engineering, Hyderabad|IT|SC|M|8233
+Vardhaman College of Engineering, Hyderabad|IT|SC|F|5736
+Vardhaman College of Engineering, Hyderabad|IT|ST|M|6656
+Vardhaman College of Engineering, Hyderabad|IT|ST|F|11032
+Vardhaman College of Engineering, Hyderabad|IT|EWS|M|8825
+Vardhaman College of Engineering, Hyderabad|IT|EWS|F|11134
+Vardhaman College of Engineering, Hyderabad|MECH|OC|M|10565
+Vardhaman College of Engineering, Hyderabad|MECH|OC|F|14123
+Vardhaman College of Engineering, Hyderabad|MECH|BC-A|M|7371
+Vardhaman College of Engineering, Hyderabad|MECH|BC-A|F|13664
+Vardhaman College of Engineering, Hyderabad|MECH|BC-B|M|12997
+Vardhaman College of Engineering, Hyderabad|MECH|BC-B|F|14356
+Vardhaman College of Engineering, Hyderabad|MECH|BC-C|M|7217
+Vardhaman College of Engineering, Hyderabad|MECH|BC-C|F|16106
+Vardhaman College of Engineering, Hyderabad|MECH|BC-D|M|11409
+Vardhaman College of Engineering, Hyderabad|MECH|BC-D|F|15219
+Vardhaman College of Engineering, Hyderabad|MECH|SC|M|9970
+Vardhaman College of Engineering, Hyderabad|MECH|SC|F|13332
+Vardhaman College of Engineering, Hyderabad|MECH|ST|M|11563
+Vardhaman College of Engineering, Hyderabad|MECH|ST|F|10619
+Vardhaman College of Engineering, Hyderabad|MECH|EWS|M|12413
+Vardhaman College of Engineering, Hyderabad|MECH|EWS|F|9018
+Vardhaman College of Engineering, Hyderabad|CIVIL|OC|M|17754
+Vardhaman College of Engineering, Hyderabad|CIVIL|OC|F|16789
+Vardhaman College of Engineering, Hyderabad|CIVIL|BC-A|M|9669
+Vardhaman College of Engineering, Hyderabad|CIVIL|BC-A|F|9940
+Vardhaman College of Engineering, Hyderabad|CIVIL|BC-B|M|14777
+Vardhaman College of Engineering, Hyderabad|CIVIL|BC-B|F|9551
+Vardhaman College of Engineering, Hyderabad|CIVIL|BC-C|M|11925
+Vardhaman College of Engineering, Hyderabad|CIVIL|BC-C|F|10566
+Vardhaman College of Engineering, Hyderabad|CIVIL|BC-D|M|8028
+Vardhaman College of Engineering, Hyderabad|CIVIL|BC-D|F|8751
+Vardhaman College of Engineering, Hyderabad|CIVIL|SC|M|9694
+Vardhaman College of Engineering, Hyderabad|CIVIL|SC|F|14510
+Vardhaman College of Engineering, Hyderabad|CIVIL|ST|M|13328
+Vardhaman College of Engineering, Hyderabad|CIVIL|ST|F|16545
+Vardhaman College of Engineering, Hyderabad|CIVIL|EWS|M|12723
+Vardhaman College of Engineering, Hyderabad|CIVIL|EWS|F|11314
+Vardhaman College of Engineering, Hyderabad|DS|OC|M|10267
+Vardhaman College of Engineering, Hyderabad|DS|OC|F|9820
+Vardhaman College of Engineering, Hyderabad|DS|BC-A|M|8858
+Vardhaman College of Engineering, Hyderabad|DS|BC-A|F|5293
+Vardhaman College of Engineering, Hyderabad|DS|BC-B|M|8455
+Vardhaman College of Engineering, Hyderabad|DS|BC-B|F|12157
+Vardhaman College of Engineering, Hyderabad|DS|BC-C|M|12184
+Vardhaman College of Engineering, Hyderabad|DS|BC-C|F|8780
+Vardhaman College of Engineering, Hyderabad|DS|BC-D|M|7783
+Vardhaman College of Engineering, Hyderabad|DS|BC-D|F|5800
+Vardhaman College of Engineering, Hyderabad|DS|SC|M|11333
+Vardhaman College of Engineering, Hyderabad|DS|SC|F|8899
+Vardhaman College of Engineering, Hyderabad|DS|ST|M|10683
+Vardhaman College of Engineering, Hyderabad|DS|ST|F|11154
+Vardhaman College of Engineering, Hyderabad|DS|EWS|M|3566
+Vardhaman College of Engineering, Hyderabad|DS|EWS|F|5493
+Kakatiya Institute of Technology & Science, Warangal|CSE|OC|M|4270
+Kakatiya Institute of Technology & Science, Warangal|CSE|OC|F|8502
+Kakatiya Institute of Technology & Science, Warangal|CSE|BC-A|M|10368
+Kakatiya Institute of Technology & Science, Warangal|CSE|BC-A|F|10298
+Kakatiya Institute of Technology & Science, Warangal|CSE|BC-B|M|5248
+Kakatiya Institute of Technology & Science, Warangal|CSE|BC-B|F|3776
+Kakatiya Institute of Technology & Science, Warangal|CSE|BC-C|M|7340
+Kakatiya Institute of Technology & Science, Warangal|CSE|BC-C|F|10420
+Kakatiya Institute of Technology & Science, Warangal|CSE|BC-D|M|1858
+Kakatiya Institute of Technology & Science, Warangal|CSE|BC-D|F|11026
+Kakatiya Institute of Technology & Science, Warangal|CSE|SC|M|11177
+Kakatiya Institute of Technology & Science, Warangal|CSE|SC|F|1706
+Kakatiya Institute of Technology & Science, Warangal|CSE|ST|M|6537
+Kakatiya Institute of Technology & Science, Warangal|CSE|ST|F|4642
+Kakatiya Institute of Technology & Science, Warangal|CSE|EWS|M|6569
+Kakatiya Institute of Technology & Science, Warangal|CSE|EWS|F|4933
+Kakatiya Institute of Technology & Science, Warangal|ECE|OC|M|5000
+Kakatiya Institute of Technology & Science, Warangal|ECE|OC|F|4079
+Kakatiya Institute of Technology & Science, Warangal|ECE|BC-A|M|5588
+Kakatiya Institute of Technology & Science, Warangal|ECE|BC-A|F|6422
+Kakatiya Institute of Technology & Science, Warangal|ECE|BC-B|M|7072
+Kakatiya Institute of Technology & Science, Warangal|ECE|BC-B|F|11629
+Kakatiya Institute of Technology & Science, Warangal|ECE|BC-C|M|6994
+Kakatiya Institute of Technology & Science, Warangal|ECE|BC-C|F|12289
+Kakatiya Institute of Technology & Science, Warangal|ECE|BC-D|M|12950
+Kakatiya Institute of Technology & Science, Warangal|ECE|BC-D|F|3994
+Kakatiya Institute of Technology & Science, Warangal|ECE|SC|M|9531
+Kakatiya Institute of Technology & Science, Warangal|ECE|SC|F|11306
+Kakatiya Institute of Technology & Science, Warangal|ECE|ST|M|9911
+Kakatiya Institute of Technology & Science, Warangal|ECE|ST|F|7287
+Kakatiya Institute of Technology & Science, Warangal|ECE|EWS|M|12850
+Kakatiya Institute of Technology & Science, Warangal|ECE|EWS|F|8793
+Kakatiya Institute of Technology & Science, Warangal|EEE|OC|M|14028
+Kakatiya Institute of Technology & Science, Warangal|EEE|OC|F|9301
+Kakatiya Institute of Technology & Science, Warangal|EEE|BC-A|M|14142
+Kakatiya Institute of Technology & Science, Warangal|EEE|BC-A|F|4570
+Kakatiya Institute of Technology & Science, Warangal|EEE|BC-B|M|12511
+Kakatiya Institute of Technology & Science, Warangal|EEE|BC-B|F|5196
+Kakatiya Institute of Technology & Science, Warangal|EEE|BC-C|M|12560
+Kakatiya Institute of Technology & Science, Warangal|EEE|BC-C|F|12350
+Kakatiya Institute of Technology & Science, Warangal|EEE|BC-D|M|14167
+Kakatiya Institute of Technology & Science, Warangal|EEE|BC-D|F|12158
+Kakatiya Institute of Technology & Science, Warangal|EEE|SC|M|6265
+Kakatiya Institute of Technology & Science, Warangal|EEE|SC|F|5885
+Kakatiya Institute of Technology & Science, Warangal|EEE|ST|M|6991
+Kakatiya Institute of Technology & Science, Warangal|EEE|ST|F|7223
+Kakatiya Institute of Technology & Science, Warangal|EEE|EWS|M|12998
+Kakatiya Institute of Technology & Science, Warangal|EEE|EWS|F|12002
+Kakatiya Institute of Technology & Science, Warangal|IT|OC|M|7593
+Kakatiya Institute of Technology & Science, Warangal|IT|OC|F|10803
+Kakatiya Institute of Technology & Science, Warangal|IT|BC-A|M|3378
+Kakatiya Institute of Technology & Science, Warangal|IT|BC-A|F|9312
+Kakatiya Institute of Technology & Science, Warangal|IT|BC-B|M|8889
+Kakatiya Institute of Technology & Science, Warangal|IT|BC-B|F|3953
+Kakatiya Institute of Technology & Science, Warangal|IT|BC-C|M|4073
+Kakatiya Institute of Technology & Science, Warangal|IT|BC-C|F|2532
+Kakatiya Institute of Technology & Science, Warangal|IT|BC-D|M|12149
+Kakatiya Institute of Technology & Science, Warangal|IT|BC-D|F|7890
+Kakatiya Institute of Technology & Science, Warangal|IT|SC|M|10070
+Kakatiya Institute of Technology & Science, Warangal|IT|SC|F|2641
+Kakatiya Institute of Technology & Science, Warangal|IT|ST|M|3749
+Kakatiya Institute of Technology & Science, Warangal|IT|ST|F|7404
+Kakatiya Institute of Technology & Science, Warangal|IT|EWS|M|12272
+Kakatiya Institute of Technology & Science, Warangal|IT|EWS|F|10676
+Kakatiya Institute of Technology & Science, Warangal|MECH|OC|M|15900
+Kakatiya Institute of Technology & Science, Warangal|MECH|OC|F|13796
+Kakatiya Institute of Technology & Science, Warangal|MECH|BC-A|M|12933
+Kakatiya Institute of Technology & Science, Warangal|MECH|BC-A|F|16784
+Kakatiya Institute of Technology & Science, Warangal|MECH|BC-B|M|7684
+Kakatiya Institute of Technology & Science, Warangal|MECH|BC-B|F|8092
+Kakatiya Institute of Technology & Science, Warangal|MECH|BC-C|M|15525
+Kakatiya Institute of Technology & Science, Warangal|MECH|BC-C|F|13948
+Kakatiya Institute of Technology & Science, Warangal|MECH|BC-D|M|12507
+Kakatiya Institute of Technology & Science, Warangal|MECH|BC-D|F|9501
+Kakatiya Institute of Technology & Science, Warangal|MECH|SC|M|16868
+Kakatiya Institute of Technology & Science, Warangal|MECH|SC|F|16704
+Kakatiya Institute of Technology & Science, Warangal|MECH|ST|M|16146
+Kakatiya Institute of Technology & Science, Warangal|MECH|ST|F|14514
+Kakatiya Institute of Technology & Science, Warangal|MECH|EWS|M|14539
+Kakatiya Institute of Technology & Science, Warangal|MECH|EWS|F|13342
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|OC|M|8040
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|OC|F|11039
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|BC-A|M|15487
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|BC-A|F|15571
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|BC-B|M|13735
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|BC-B|F|15840
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|BC-C|M|15054
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|BC-C|F|10600
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|BC-D|M|10946
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|BC-D|F|9758
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|SC|M|12415
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|SC|F|9179
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|ST|M|8903
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|ST|F|12633
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|EWS|M|15244
+Kakatiya Institute of Technology & Science, Warangal|CIVIL|EWS|F|8965
+Kakatiya Institute of Technology & Science, Warangal|DS|OC|M|6787
+Kakatiya Institute of Technology & Science, Warangal|DS|OC|F|8357
+Kakatiya Institute of Technology & Science, Warangal|DS|BC-A|M|10247
+Kakatiya Institute of Technology & Science, Warangal|DS|BC-A|F|8814
+Kakatiya Institute of Technology & Science, Warangal|DS|BC-B|M|8764
+Kakatiya Institute of Technology & Science, Warangal|DS|BC-B|F|12954
+Kakatiya Institute of Technology & Science, Warangal|DS|BC-C|M|3794
+Kakatiya Institute of Technology & Science, Warangal|DS|BC-C|F|11182
+Kakatiya Institute of Technology & Science, Warangal|DS|BC-D|M|8097
+Kakatiya Institute of Technology & Science, Warangal|DS|BC-D|F|4720
+Kakatiya Institute of Technology & Science, Warangal|DS|SC|M|11874
+Kakatiya Institute of Technology & Science, Warangal|DS|SC|F|3557
+Kakatiya Institute of Technology & Science, Warangal|DS|ST|M|12946
+Kakatiya Institute of Technology & Science, Warangal|DS|ST|F|12893
+Kakatiya Institute of Technology & Science, Warangal|DS|EWS|M|10224
+Kakatiya Institute of Technology & Science, Warangal|DS|EWS|F|10100
