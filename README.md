@@ -1,1 +1,0 @@
-# Eamcet-college-predictor
